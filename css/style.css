@@ -1,0 +1,23 @@
+table {
+	width: 500px;
+}
+
+.direita {
+	text-align: right;
+}
+
+th{
+	padding: 5px 0px;
+	text-align: left;
+	text-transform: uppercase;
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+}
+
+tr:hover{
+	background: cyan;
+}
+
+a{
+	background: yellow;
+}
